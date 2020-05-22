@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <app  test1="attr1" test2="attr2">
+        <package>com.test1</package>
+        <name>测试1</name>
+    </app>
+
+    <app>
+        <package>com.test2</package>
+        <name>测试2</name>
+    </app>
+
+    <app>
+        <package>com.test3</package>
+        <name>测试3</name>
+    </app>
+
+</PreferenceScreen>
